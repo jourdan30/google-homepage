@@ -46,7 +46,7 @@ li {
 main {
     display: block;
     text-align: center;
-    margin-top: 10%; 
+    margin-top: 5%; 
     
 
 }
@@ -54,8 +54,8 @@ main {
 #logo {
     display: block;
     margin : 0 auto;
-    width: 250px;
-    height: 25%;
+    width: 15%;
+    margin-bottom: 1%;
    
 
 }
@@ -72,8 +72,9 @@ form {
     height: 2.3em;
     display: inline-block;
     margin : 0 auto;
-    width: 300px;
+    width: 20%;
     padding-left: 40px;
+    margin-bottom: 1%;
 }
 
 #box:focus {
